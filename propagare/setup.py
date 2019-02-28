@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 import sys
 if sys.version_info[0] != 2:
     sys.exit("Disculpa, Propagare necesita Python >= 2.7.9") 
